@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Vishal",
+    "gender": "male",
+    "contact": 9999999999
+  },
+  {
+    "id": 2,
+    "name": "Rohit",
+    "gender": "male",
+    "contact": 8888888888
+  },
+  {
+    "id": 3,
+    "name": "Tamanna",
+    "gender": "female",
+    "contact": 2222222222
+  },
+  {
+    "id": 4,
+    "name": "Prathamesh",
+    "gender": "male",
+    "contact": 2222222222
+  },
+  {
+    "id": 5,
+    "name": "Selena",
+    "gender": "female",
+    "contact": 2222222222
+  },
+  {
+    "id": 6,
+    "name": "Ashutosh",
+    "gender": "male",
+    "contact": 1111111111
+  }
+]
